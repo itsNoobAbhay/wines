@@ -78,7 +78,7 @@ def display_card(row, score):
             
 # Streamlit app UI
 st.set_page_config(page_title="Wine OCR Matcher", layout="wide")
-st.title("🍷 Wine Label OCR Matcher")
+st.title("🍷 Baxus Goggles")
 
 dataset_file = "dataset.csv"
 
